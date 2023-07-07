@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/logo.png</file>
+        <file>images/men.jpg</file>
+        <file>images/young-fitness-man-studio.jpg</file>
+        <file>images/plus.png</file>
+        <file>images/settings-cogwheel-button.png</file>
+        <file>images/left-arrow.png</file>
+        <file>images/multiply.png</file>
+        <file>images/schedule.png</file>
+        <file>images/icons8-money-bag-50.png</file>
+        <file>images/icons8-messages-50.png</file>
+        <file>images/icons8-back-50.png</file>
+        <file>images/726.jpg</file>
+        <file>images/icons8-back-24.png</file>
+        <file>images/icons8-consultation-64.png</file>
+        <file>images/icons8-statistics-100.png</file>
+        <file>images/icons8-user-groups-100 (1).png</file>
+        <file>images/icons8-user-groups-100.png</file>
+        <file>images/icons8-delete-100.png</file>
+        <file>images/45671.jpg</file>
+        <file>images/456711.png</file>
+        <file>images/SL_082820_34580_18.jpg</file>
+        <file>images/4877010.jpg</file>
+    </qresource>
+</RCC>
